@@ -1,53 +1,40 @@
-# Hi there, I'm Muhammad Hashem! 👋
+# Hi there, I'm Muhammad Hashim! 👋
 
-Welcome to my digital space! I'm a passionate web developer, video editor, and creative professional dedicated to building seamless digital experiences.
+**Full-Stack Web Developer | Entrepreneur | Tech Enthusiast**
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhmmadhashem59-ctrl&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true)
+I'm an 18-year-old student currently pursuing my FSc Pre-Engineering, with a strong passion for web development, digital marketing, and building real-world solutions. I bridge the gap between clean code and business growth, leveraging modern frameworks and AI tools to create optimized, high-performing web applications. 
 
-## 🚀 About Me
+### 🚀 About Me
 
-I specialize in building modern, responsive, and dynamic web applications. My work spans from robust specialized transport applications like **MakkahTransporters** and **QatarRides** to highly interactive personal portfolio sites. I love blending precise technical programming with creative design to produce high-quality, user-friendly digital products.
+*   💻 **What I do:** Building robust full-stack applications with a focus on modern UI/UX and seamless backend integration.
+*   🏢 **What I'm building:** Currently managing and developing web projects, including my transportation business, **Makkah Transporters**, and crafting my personal portfolio.
+*   🧠 **What I'm learning:** Constantly exploring advanced AI tool integrations (like Copilot, Gemini, and Claude) to optimize development workflows, along with mastering technical SEO and digital marketing strategies.
+*   ⚡ **Fun facts:** When I'm not coding or studying for my HSSC exams, I'm likely tweaking PC hardware, analyzing game design, developing Minecraft servers, or grinding in CODM. I'm also preparing for the PMA Long Course!
 
-- 🔭 **Currently Building:** I'm actively developing my main **[Portfolio Site](https://github.com/muhmmadhashem59-ctrl/portfoli)** — an advanced web application utilizing the Next.js App Router, modern TypeScript, and Tailwind CSS.
-- 🌱 **Always Learning:** Constantly exploring new web technologies and creative media techniques.
-- 🎨 **Beyond Coding:** I'm highly passionate about visual storytelling through **Video Editing** and graphic design!
+### 🛠️ Tech Stack & Tools
 
-## 🛠️ Skills & Technologies
+**Frontend & Backend:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-I leverage a versatile stack to bring ideas to life:
+**Tools & Workflows:**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-Optimization-success?style=for-the-badge)
 
-**💻 Core Development:**
-- **[Next.js](https://nextjs.org/)** (App Router & React ecosystem)
-- **[TypeScript](https://www.typescriptlang.org/)** (My go-to language, making up 98% of my core portfolio!)
-- **Tailwind CSS** & **PostCSS**
-- **HTML5 / CSS3**
-- **JavaScript**
+### 📈 GitHub Stats
 
-**🎨 Design, Media & Productivity:**
-- 🎬 **Video Editing** (Crafting engaging visual content)
-- 🖌️ **Canva** (Rapid UI/UX prototyping and graphic design)
-- 🧩 **Jules**
-- 🛠️ **Google Pro** (Workspace & advanced integrations)
+![Muhammad Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhmmadhashem59-ctrl&show_icons=true&theme=radical)
 
-## 📁 Highlighted Projects
+### 📫 Let's Connect!
 
-### 🌟 [The Portfolio Project (`portfoli`)](https://github.com/muhmmadhashem59-ctrl/portfoli)
-My flagship personal website that acts as my digital resume and project showcase.
-- **Tech Stack:** Next.js, TypeScript, PostCSS/Tailwind CSS.
-- **Features:** A modular component architecture (`/app`, `/components`, `/lib`) demonstrating modern React best practices, responsive design, and seamless performance.
-
-### 🚗 Transport & Logistics Applications
-I have a strong background in creating specialized applications for the transport sector:
-- **[QatarRides](https://github.com/muhmmadhashem59-ctrl/QatarRides)** - A robust transport web application built entirely with TypeScript.
-- **[MakkahTransporters](https://github.com/muhmmadhashem59-ctrl/MakkahTransporters)** & **[meccatransporters](https://github.com/muhmmadhashem59-ctrl/meccatransporters)** - Projects dedicated to transport and logistics services in the Mecca region, leveraging TypeScript and HTML.
-
-### 💻 Other Notable Works
-- **[Shurt](https://github.com/muhmmadhashem59-ctrl/Shurt)** - A sleek TypeScript-based development project.
-- **Various Iterations:** `Portfolioo`, `abc`, `new-web`, and more, showing my continuous journey in experimenting with web structures.
-
-## 📊 Language Breakdown
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhmmadhashem59-ctrl&layout=compact&theme=radium&hide_border=true)
+*   **Portfolio:** [Link to your upcoming portfolio](#) <!-- Add your portfolio link here once it's live! -->
+*   **LinkedIn:** [Link to your LinkedIn](#) <!-- Don't forget to add your LinkedIn URL -->
+*   **Email:** [hello@muhammadhashim.me](mailto:hello@muhammadhashim.me)
 
 ---
-💬 *Let's connect and build something awesome together! Feel free to explore my repositories.*
+⭐️ *From building enterprise websites to fine-tuning workstation hardware.*
