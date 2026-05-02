@@ -74,7 +74,6 @@ I am a technical entrepreneur and developer bridging the gap between clean softw
 ### Contact & Connectivity
 
 *   **Email:** [hello@muhammadhashim.me](mailto:hello@muhammadhashim.me)
-*   **LinkedIn:** [linkedin.com/in/yourprofile](#) 
 *   **Portfolio:** [muhammadhashim.me](https://muhammadhashim.me) 
 
 *From engineering enterprise AI workflows to architecting robust cloud infrastructure.*
