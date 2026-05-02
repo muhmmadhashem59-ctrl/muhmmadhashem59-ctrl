@@ -15,7 +15,7 @@ I am a technical entrepreneur and developer bridging the gap between clean softw
 
 ### Education & Certifications
 
-![FSc Pre-Engineering](https://img.shields.io/badge/FSc_Pre--Engineering-HSSC--II-00273F?style=for-the-badge)
+![FSc Intermediate In Computer Sciences](https://img.shields.io/badge/FSc_Pre--Engineering-HSSC--II-00273F?style=for-the-badge)
 ![Fazaia Intermediate College](https://img.shields.io/badge/Fazaia_Intermediate_College-Academics-1A1A1A?style=for-the-badge)
 ![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub_Student_Pack-Verified-7A7A7A?style=for-the-badge&logo=github&logoColor=white)
 ![SEO Expert](https://img.shields.io/badge/Technical_SEO-Certified-success?style=for-the-badge)
